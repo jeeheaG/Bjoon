@@ -1,5 +1,5 @@
 
-public class Pro3 {
+public class Pro1_3 {
 	public static void main(String[] args) {
 		System.out.println("\\    /\\");
 		System.out.println(" )  ( \')");

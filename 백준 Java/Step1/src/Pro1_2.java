@@ -1,5 +1,5 @@
 
-public class Pro2 {
+public class Pro1_2 {
 
 	public static void main(String[] args) {
 		int i = 0;
