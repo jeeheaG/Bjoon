@@ -8,5 +8,5 @@
 7. pro1_7 : https://www.acmicpc.net/problem/10998
 8. pro1_8 : https://www.acmicpc.net/problem/1008
 9. pro1_9 : https://www.acmicpc.net/problem/10869
-10. pro1_10 : https://www.acmicpc.net/status?user_id=problembreaker8&problem_id=10430&from_mine=1
+10. pro1_10 : https://www.acmicpc.net/problem/10430
 11. pro1_11 : https://www.acmicpc.net/problem/2588
