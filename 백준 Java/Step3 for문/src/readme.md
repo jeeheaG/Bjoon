@@ -8,3 +8,6 @@
 6. pro3_6 : https://www.acmicpc.net/problem/2742
 7. pro3_7 : https://www.acmicpc.net/problem/11021
 8. pro3_8 : https://www.acmicpc.net/problem/11022
+9. pro3_9 : https://www.acmicpc.net/problem/2438
+10. pro3_10 : https://www.acmicpc.net/problem/2439
+11. pro3_11 : https://www.acmicpc.net/problem/10871
