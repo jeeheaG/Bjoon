@@ -6,3 +6,4 @@
 4. pro6_4 : https://www.acmicpc.net/problem/3052
 5. pro6_5 : https://www.acmicpc.net/problem/1546
 6. pro6_6 : https://www.acmicpc.net/problem/8958
+7. pro6_7 : https://www.acmicpc.net/problem/4344
