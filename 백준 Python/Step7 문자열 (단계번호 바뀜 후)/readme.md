@@ -5,4 +5,4 @@
 2. pro7_2 : https://www.acmicpc.net/problem/11720
 3. pro7_3 : https://www.acmicpc.net/problem/10809
 4. pro7_4 NO.2675 : https://www.acmicpc.net/problem/2675
-4. pro7_5 NO.1157 : https://www.acmicpc.net/problem/1157
+5. pro7_5 NO.1157 : https://www.acmicpc.net/problem/1157
