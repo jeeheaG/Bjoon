@@ -7,5 +7,5 @@
 4. pro7_4 NO.2675 : https://www.acmicpc.net/problem/2675
 5. pro7_5 NO.1157 : https://www.acmicpc.net/problem/1157
 6. pro7_6 NO.1152 : https://www.acmicpc.net/problem/1152
-+) 단계별이 아닌 백준 문제 풀었음 - https://github.com/jeeheaG/dsc/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/src/Algorithm/No_10828.java
++) 단계별이 아닌 백준 문제 풀었음. https://github.com/jeeheaG/dsc/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/src/Algorithm/No_10828.java
     NO.10828 : https://www.acmicpc.net/problem/10828
