@@ -8,8 +8,14 @@ public class Pro7_7_no2908 {
 			//System.out.println('¹øÂ° ¼ö');
 			for(int i=0; i<s[j].length(); i++) {
 				num[j] += (s[j].charAt(i)-'0')*Math.pow(10, i);
-				System.out.println(num[j]);
+				//System.out.println(num[j]);
 			}
+		}
+		if(num[0]>num[1]) {
+			System.out.println(num[0]);
+		}
+		else {
+			System.out.println(num[1]);
 		}
 		
 
