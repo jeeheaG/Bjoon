@@ -1,6 +1,6 @@
 //반복문 돌려서 더 짧게 못하나?
 import java.io.*;
-public class Pro7_7_no5622 {
+public class Pro7_8_no5622 {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		String s = br.readLine();
