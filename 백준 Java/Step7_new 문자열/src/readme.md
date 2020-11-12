@@ -10,3 +10,4 @@
 +) 단계별이 아닌 백준 문제 풀었음. https://github.com/jeeheaG/dsc/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/src/Algorithm/No_10828.java
     NO.10828 : https://www.acmicpc.net/problem/10828
 7. pro7_7 NO.2908 : https://www.acmicpc.net/problem/2908
+8. pro7_8 NO.5622 : https://www.acmicpc.net/problem/5622
