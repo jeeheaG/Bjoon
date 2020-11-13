@@ -9,3 +9,4 @@
 6. pro7_6 NO.1152 : https://www.acmicpc.net/problem/1152
 7. pro7_7 NO.2908 : https://www.acmicpc.net/problem/2908
 8. pro7_8 NO.5622 : https://www.acmicpc.net/problem/5622
+8-1. pro7_8 NO.5622_2 (다른 풀이) : https://www.acmicpc.net/problem/5622
