@@ -25,7 +25,4 @@ for i in range(len(s)):
     elif s[i] in 'WXYZ' :
         t+=10
         continue;
-    elif s[i] in 'DEF' :
-        t+=11
-        continue;
 print(t)
